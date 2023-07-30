@@ -7,7 +7,7 @@
 over-flow-x:hident
 
 #logo{
-    width: 25%;
+    width: 5%;
 }
 
 #menu{
@@ -47,4 +47,14 @@ over-flow-x:hident
     width: 100%;
     text-align: center;
     color: #fff;
+}
+
+/*seccion videos*/
+
+#videos{
+    background-color: #fff;
+}
+#videos .titulo{
+    width: 100%;
+    text-align: center;
 }
