@@ -115,6 +115,7 @@ body{
     line-height: inherit;
 }
 
+
 .ft-link{
     padding: 0;
     margin: 0;
@@ -127,3 +128,27 @@ body{
     margin-bottom: 30px;
     font-size: 1.2remv;
 }
+
+.footer__info{
+    color: #fff;
+    line-height: 30px;
+    font-size: 1.0rem;
+}
+
+.footer__link:nth-child(1){
+   border-left: 2px solid #00fbff;
+}
+
+.footer__link:nth-child(2){
+    border-left: 2px solid #9829a2;
+ }
+ .footer__link:nth-child(3){
+    border-left: 2px solid #ff9ae4;
+ }
+
+ .footer-credits{
+    width: 100%;
+    color: #fff;
+    text-align: center;
+    background-color: #9829a2;
+ }
