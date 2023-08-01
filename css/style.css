@@ -3,11 +3,13 @@
     --enlace:#fff;
 }
 
-#body
-over-flow-x:hident
+body{
+    overflow-x: hidden;
+}
+
 
 #logo{
-    width: 5%;
+    width: 25%;
 }
 
 #menu{
@@ -123,5 +125,5 @@ over-flow-x:hident
     color: #fff;
     font-weight: 700;
     margin-bottom: 30px;
-    font-size: 1.2rem;
+    font-size: 1.2remv;
 }
