@@ -165,3 +165,10 @@ body{
     margin-top: 200px;
     text-align: center;
  }
+
+ /* simulador */
+#simulador .titulo{
+    width: 100%;
+    text-align: center;
+    margin-top: 115px;
+}
